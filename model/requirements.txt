@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+torch
+torch-geometric
+rdkit==2023.9.6 
+scikit-learn
+Pillow
